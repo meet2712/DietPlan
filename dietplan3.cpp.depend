@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1520922362 source:c:\users\admin\desktop\new folder\dietplan3.cpp\main.cpp
+	<iostream>
+	<string>
+	"IsLogIn.h"
+	"choice.h"
+	"mchoice.h"
+	"fchoice.h"
+
+1520660127 c:\users\admin\desktop\new folder\dietplan3.cpp\islogin.h
+	<string>
+
+1520660560 c:\users\admin\desktop\new folder\dietplan3.cpp\choice.h
+	<string>
+
+1520660277 c:\users\admin\desktop\new folder\dietplan3.cpp\male_choice.h
+	<string>
+
+1520660363 c:\users\admin\desktop\new folder\dietplan3.cpp\female_choice.h
+	<string>
+
+1520925337 c:\users\admin\desktop\new folder\dietplan3.cpp\mchoice.h
+	<string>
+
+1520922399 c:\users\admin\desktop\new folder\dietplan3.cpp\fchoice.h
+	<string>
+
